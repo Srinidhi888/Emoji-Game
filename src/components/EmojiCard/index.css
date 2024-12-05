@@ -1,0 +1,14 @@
+/* Write your code here. */
+.emoji {
+  background: hsla(0, 14%, 95%, 0.3);
+  border-radius: 10px;
+  padding: 30px;
+  border-color: hsla(0, 14%, 90%, 0.3);
+  border-width: 2px;
+  border-style: solid;
+  margin: 6px;
+}
+.emoji-btn {
+  background-color: transparent;
+  border-width: 0px;
+}
